@@ -1,0 +1,6 @@
+github.com/marvinhosea/go-filter v0.0.0-20220920084832-2774b2100989 h1:9pxVXjk5zHhjx+yj/Df7eWaVz0SEnamrs0Tj+Lv2//Q=
+github.com/marvinhosea/go-filter v0.0.0-20220920084832-2774b2100989/go.mod h1:LtBocDSZVddvWeYsoncPP0MGYH/p13OKetGdBCDUjUw=
+golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e h1:+WEEuIdZHnUeJJmEUjyYC2gfUMj69yZXw17EnHg/otA=
+golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e/go.mod h1:Kr81I6Kryrl9sr8s2FK3vxD90NdsKWRuOIl2O4CvYbA=
+golang.org/x/exp v0.0.0-20220916125017-b168a2c6b86b h1:SCE/18RnFsLrjydh/R/s5EVvHoZprqEQUuoxK8q2Pc4=
+golang.org/x/exp v0.0.0-20220916125017-b168a2c6b86b/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=

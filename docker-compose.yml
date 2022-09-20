@@ -1,0 +1,10 @@
+services:
+  app:
+    container_name: go-private-example
+    env_file:
+      - .env
+    build:
+      dockerfile: Dockerfile
+      args:
+        - GITHUB_TOKEN=GITHUB_TOKEN
+    image: go-private-example
